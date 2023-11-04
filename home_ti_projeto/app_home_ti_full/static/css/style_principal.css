@@ -11,30 +11,34 @@
 
 
 cores do projeto
-Natureza-1-hex { color: #59252E; }
-Natureza-2-hex { color: #325573; }
-Natureza-3-hex { color: #F2911B; }
-Natureza-4-hex { color: #F2C288; }
-Natureza-5-hex { color: #D95204; }
+/* Color Theme Swatches in Hex */
+.Natureza-1-hex { color: #006FC7; }
+.Natureza-2-hex { color: #4C9431; }
+.Natureza-3-hex { color: #522A00; }
+.Natureza-4-hex { color: #FFC55A; }
+.Natureza-5-hex { color: #FF7B24; }
+
+
+
 
 nav.Natureza-1-hex {
-    background-color: #59252E;
+    background-color: #006FC7;
 }
 
 div.Natureza-2-hex {
-  background-color: #325573;
+  background-color: #4C9431;
 }
 
 div.Natureza-3-hex {
-    background-color: #F2911B;
+    background-color: #522A00;
 }
 
 div.Natureza-4-hex {
-  background-color: #F2C288;
+  background-color: #FFC55A;
 }
 
 div.Natureza-5-hex {
-  background-color: #D95204;
+  background-color: #FF7B24;
 }
 
 
@@ -42,6 +46,10 @@ div.Natureza-5-hex {
 
 div.meio {
     margin-top: 30px;
+}
+
+.Natureza-2-hex {
+  color: black;
 }
 
 /*footer*/
@@ -65,6 +73,8 @@ div.video_site{
   justify-content: center;
   align-items: flex-start;
 }
+
+
 
 
       
