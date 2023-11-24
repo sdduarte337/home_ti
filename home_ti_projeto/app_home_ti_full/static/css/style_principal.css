@@ -41,7 +41,12 @@ div.Natureza-5-hex {
   background-color: #FF7B24;
 }
 
+div.tamanho_img {
+  max-width: 100vw;
+  max-height: 100vh;
 
+  
+}
 
 
 div.meio {
@@ -50,6 +55,11 @@ div.meio {
 
 .Natureza-2-hex {
   color: black;
+}
+
+div.tam_icone {
+  max-width: 100vw;
+  max-height: 100vh;
 }
 
 /*footer*/
@@ -74,6 +84,7 @@ div.video_site{
   align-items: flex-start;
 }
 
+  
 
 
 
